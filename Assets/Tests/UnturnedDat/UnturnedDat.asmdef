@@ -1,0 +1,18 @@
+{
+    "name": "UnturnedDat.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b2ae0833ce21d7c4494864f914ebb0e9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

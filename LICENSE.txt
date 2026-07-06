@@ -1,0 +1,84 @@
+U3 SDK License Agreement
+------------------------
+
+Copyright Notice: Copyright © 2026 Smartly Dressed Games Ltd. All rights reserved, unless
+expressly granted herein.
+
+The license terms herein constitute an agreement (the “U3 SDK License Agreement”) made by
+you (“Licensee”) and Smartly Dressed Games Ltd. (“Licensor”; collectively, Licensee and
+Licensor are referred to herein as the “Parties”) for the use of the U3 SDK and associated
+documentation files (collectively, the “Software”). By downloading or using the Software, you
+acknowledge that you have read and agree to be bound by these license terms. If you do not agree
+with these license terms, do not download or use, in any manner, the Software.
+
+1. Mod License. Licensor grants to Licensee a limited, non-exclusive license to use, copy and
+modify the Software to develop a modified game based on the U3 SDK (“Mod”) for distribution
+in source and object code form solely on personal computers running Windows,macOS, and/or
+Linux operating systems, provided that Licensee (a) includes with any developed Mod the above
+copyright notice and this U3 SDK License Agreement, (b) includes the THIRDPARTYNOTICES.txt file
+associated with the Software, (c) provides any developed Mod to third parties free of charge and
+strictly on a non-commercial basis, and (d) requires any use or further distribution of any developed
+Mod by third parties to be in accordance with this U3 SDK License Agreement.
+
+2. Platform Restrictions. Licensee shall not, and shall not permit any third party to, use, develop,
+adapt, port, compile, translate, or otherwise exploit the Software or any Mod for or in connection
+with (a) gaming consoles, (b) mobile or handheld devices, (c) any platform or environment that
+enables or facilitates gameplay on such devices, including without limitation via emulation,
+virtualization, streaming, or cloud-based delivery, or (d) any subscription-based distribution model
+or multi-title service that delivers or enables access to gameplay on any such restricted platform
+or device, whether by streaming, download, or any other means. Licensee further agrees not to
+engage in any activity intended to circumvent these restrictions, including by reimplementing,
+reverse engineering, or recreating the Software or any Mod for such restricted platforms.
+
+3. Third Party Rights. Licensee acknowledges that certain exclusive rights in and to the Software,
+including without limitation rights relating to console platforms and other commercial exploitation
+rights, have been granted by Licensor to third-party licensees. Nothing in this U3 SDK License
+Agreement grants any rights, whether express or implied, that would conflict with, impair, or
+encroach upon such third-party rights. Licensee agrees that any breach of this U3 SDK License
+Agreement that interferes with such third-party rights shall constitute a material breach.
+
+4. Excluded Versions. For the avoidance of doubt, this U3 SDK License Agreement does not
+apply to, and expressly excludes, any console or mobile versions of the Software, including any
+modified, enhanced, or derivative versions thereof developed independently by or for Licensor or
+its third-party licensees.
+
+5. Trademarks. UNTURNED is a registered trademark of Licensor. No rights are granted to
+Licensee in or to Licensor’s trademarks, registered or unregistered, and Licensee is not permitted
+to use Licensor’s trademarks, including without limitation the UNTURNED trademark. Licensee
+may reference the UNTURNED trademark solely to identify a Mod as being based on the
+Software, provided that Licensee (a) expressly states that its reference to the UNTURNED
+trademark does not constitute use as a trademark pursuant to the Trademarks Act, RSC 1985,
+c T-13, or applicable trademark legislation in other jurisdictions and such use is solely for non-
+commercial, identification, informational and descriptive purposes, (b) accurately identifies the
+Mod as being based on the Software, (c) expressly states that Licensee is not affiliated with or
+endorsed by the Licensor and does not make, use or sell any goods or services provided by the
+Licensor, and (d) does not disparage Licensor or its affiliates. For the avoidance of doubt, Licensee
+is not permitted to use any of the Licensor’s trademarks as a trademark in association with any
+Mod developed by the Licensee.
+
+6. Warranty Disclaimer and Indemnification. The Software is provided “as is”, without
+warranty of any kind, express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose and noninfringement. In no event shall the
+Licensor be liable for any claim, damages or other liability, whether in an action of contract, tort
+or otherwise, arising from, out of or in connection with the Software or the use or other dealings
+in the Software or any Mod developed from the Software. Without limiting the generality of the
+foregoing, Licensor has no responsibility for any Mod developed by Licensee or for any use of a
+Mod by a third party. Licensee acknowledges, accepts and agrees that (a) Licensee is developing
+a Mod at their sole liability, risk and expense, (b) Licensor has no control over the security,
+handling, protection, content, infringement, legality, compliance with laws, confidentiality,
+storage, viruses, malware or otherwise of any Mod developed by Licensee, and (c) Licensee is
+fully liable and shall indemnify, defend, release and hold harmless Licensor for all claims,
+damages, liabilities, costs and expenses (including solicitor-client fees) related directly or
+indirectly to Licensee’s use of the Software or development or distribution of any Mod.
+
+7. Termination. Any breach of the platform restrictions or third-party rights provisions of this U3
+SDK License Agreement shall result in immediate and automatic termination of this license. Upon
+termination, Licensee shall immediately cease all further use and distribution of the Software and
+any Mods and shall make no further copies thereof. Termination shall not affect copies already
+distributed to third parties prior to termination, but such third parties remain bound by the terms
+of this U3 SDK License Agreement.
+
+8. Governing Law and Jurisdiction. This U3 SDK License Agreement will be governed by and
+construed, interpreted and enforced in accordance with the laws of the Province of Alberta and the
+applicable federal laws of Canada, and the Parties hereto submit exclusively to the jurisdiction of
+the courts in the Province of Alberta.

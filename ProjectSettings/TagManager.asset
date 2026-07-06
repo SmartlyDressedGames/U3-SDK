@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Logic
+  - Enemy
+  - Viewmodel
+  - Debris
+  - Item
+  - Resource
+  - Large
+  - Medium
+  - Small
+  - Sky
+  - Environment
+  - Water
+  - Ground
+  - Clip
+  - Navmesh
+  - Zombie
+  - Agent
+  - Ladder
+  - Vehicle
+  - Barricade
+  - Structure
+  - Tire
+  - Trap
+  - Ground2
+  - Animal
+  - UI
+  - Border
+  - Viewport
+  - Node
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Logic
+  - Player
+  - Enemy
+  - Viewmodel
+  - Debris
+  - Item
+  - Resource
+  - Large
+  - Medium
+  - Small
+  - Sky
+  - Environment
+  - Ground
+  - Clip
+  - Navmesh
+  - Entity
+  - Agent
+  - Ladder
+  - Vehicle
+  - Barricade
+  - Structure
+  - Tire
+  - Trap
+  - Ground2
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

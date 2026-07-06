@@ -1,0 +1,2 @@
+#define WINDOWSASSERTIONFIX_API __declspec(dllexport)
+#define WINDOWSASSERTIONFIX_API __declspec(dllimport)

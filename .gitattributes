@@ -1,0 +1,65 @@
+# If using Git LFS, replace "binary" with "filter=lfs diff=lfs merge=lfs -text"
+
+# Mesh files
+*.blend binary
+*.fbx binary
+*.obj binary
+*.spm binary
+*.mlt binary
+
+# Texture files
+*.psd binary
+*.xcf binary
+*.png binary
+*.jpg binary
+*.tga binary
+
+# Sound files
+*.aup binary
+*.aup3 binary
+*.au binary
+*.mp3 binary
+*.ogg binary
+*.wav binary
+*.aif binary
+*.aiff binary
+
+# Unturned files
+*.content binary
+*.masterbundle binary
+*.splatmap binary
+*.heightmap binary
+*Foliage.blob binary
+
+# Level file is text and originally designed for merging, but they get too big at the moment (700k+ lines)
+*Level.hierarchy binary
+
+# Unity files
+*.unity binary
+*.unity3d binary
+*.prefab binary
+*.unitypackage binary
+*.masterbundle.manifest binary
+
+# Binary files
+*.exe binary
+*.dll binary
+*.dylib binary
+*.so binary
+*.zip binary
+*.7z binary
+*.pdf binary
+
+# Excel Spreadsheets
+*.xlsx binary
+
+# Bash Script
+*.sh text eol=lf
+
+# Preserve Windows batch script line endings.
+*.bat eol=crlf
+
+# Economy Files
+AssetsReport.json binary
+EconInfo.json binary
+/Economy/ItemSchema/Output/*/ItemDefinitions.json binary

@@ -1,0 +1,3191 @@
+fileFormatVersion: 2
+guid: d8ad8d525aa0ff547a1dfded72d6d1f0
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Left_Arm
+  - first:
+      1: 100004
+    second: Left_Foot
+  - first:
+      1: 100006
+    second: Left_Hand
+  - first:
+      1: 100008
+    second: Left_Hip
+  - first:
+      1: 100010
+    second: Left_Hook
+  - first:
+      1: 100012
+    second: Left_Leg
+  - first:
+      1: 100014
+    second: Left_Shoulder
+  - first:
+      1: 100016
+    second: Right_Arm
+  - first:
+      1: 100018
+    second: Right_Foot
+  - first:
+      1: 100020
+    second: Right_Hand
+  - first:
+      1: 100022
+    second: Right_Hip
+  - first:
+      1: 100024
+    second: Right_Hook
+  - first:
+      1: 100026
+    second: Right_Leg
+  - first:
+      1: 100028
+    second: Right_Shoulder
+  - first:
+      1: 100030
+    second: Skeleton
+  - first:
+      1: 100032
+    second: Skull
+  - first:
+      1: 100034
+    second: Spine
+  - first:
+      1: 100036
+    second: Boulder
+  - first:
+      1: 100038
+    second: Camera
+  - first:
+      1: 100040
+    second: Model
+  - first:
+      1: 100042
+    second: Point
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Left_Arm
+  - first:
+      4: 400004
+    second: Left_Foot
+  - first:
+      4: 400006
+    second: Left_Hand
+  - first:
+      4: 400008
+    second: Left_Hip
+  - first:
+      4: 400010
+    second: Left_Hook
+  - first:
+      4: 400012
+    second: Left_Leg
+  - first:
+      4: 400014
+    second: Left_Shoulder
+  - first:
+      4: 400016
+    second: Right_Arm
+  - first:
+      4: 400018
+    second: Right_Foot
+  - first:
+      4: 400020
+    second: Right_Hand
+  - first:
+      4: 400022
+    second: Right_Hip
+  - first:
+      4: 400024
+    second: Right_Hook
+  - first:
+      4: 400026
+    second: Right_Leg
+  - first:
+      4: 400028
+    second: Right_Shoulder
+  - first:
+      4: 400030
+    second: Skeleton
+  - first:
+      4: 400032
+    second: Skull
+  - first:
+      4: 400034
+    second: Spine
+  - first:
+      4: 400036
+    second: Boulder
+  - first:
+      4: 400038
+    second: Camera
+  - first:
+      4: 400040
+    second: Model
+  - first:
+      4: 400042
+    second: Point
+  - first:
+      23: 2300000
+    second: Boulder
+  - first:
+      33: 3300000
+    second: Boulder
+  - first:
+      43: 4300000
+    second: Boulder
+  - first:
+      43: 4300002
+    second: Model
+  - first:
+      74: 7400000
+    second: Default Take
+  - first:
+      74: 7400002
+    second: Attack_0
+  - first:
+      74: 7400004
+    second: Idle_0
+  - first:
+      74: 7400006
+    second: Move_0
+  - first:
+      74: 7400008
+    second: Startle_0
+  - first:
+      74: 7400010
+    second: Stun_0
+  - first:
+      74: 7400012
+    second: Attack_1
+  - first:
+      74: 7400014
+    second: Attack_2
+  - first:
+      74: 7400016
+    second: Attack_3
+  - first:
+      74: 7400018
+    second: Attack_4
+  - first:
+      74: 7400020
+    second: Startle_1
+  - first:
+      74: 7400022
+    second: Startle_2
+  - first:
+      74: 7400024
+    second: Stun_1
+  - first:
+      74: 7400026
+    second: Stun_2
+  - first:
+      74: 7400028
+    second: Stun_3
+  - first:
+      74: 7400030
+    second: Stun_4
+  - first:
+      74: 7400032
+    second: Move_1
+  - first:
+      74: 7400034
+    second: Move_2
+  - first:
+      74: 7400036
+    second: Move_3
+  - first:
+      74: 7400038
+    second: Idle_1
+  - first:
+      74: 7400040
+    second: Idle_2
+  - first:
+      74: 7400042
+    second: Idle_3
+  - first:
+      74: 7400044
+    second: Move_4
+  - first:
+      74: 7400046
+    second: Startle_3
+  - first:
+      74: 7400048
+    second: Stun_5
+  - first:
+      74: 7400050
+    second: Attack_5
+  - first:
+      74: 7400052
+    second: Idle_4
+  - first:
+      74: 7400054
+    second: Move_5
+  - first:
+      74: 7400056
+    second: Attack_6
+  - first:
+      74: 7400058
+    second: Attack_7
+  - first:
+      74: 7400060
+    second: Startle_4
+  - first:
+      74: 7400062
+    second: Stun_6
+  - first:
+      74: 7400064
+    second: Attack_8
+  - first:
+      74: 7400066
+    second: Stun_7
+  - first:
+      74: 7400068
+    second: Stun_8
+  - first:
+      74: 7400070
+    second: Stun_9
+  - first:
+      74: 7400072
+    second: Stun_10
+  - first:
+      74: 7400074
+    second: Startle_5
+  - first:
+      74: 7400076
+    second: Startle_6
+  - first:
+      74: 7400078
+    second: Boulder_0
+  - first:
+      74: 7400080
+    second: Acid_0
+  - first:
+      74: 7400082
+    second: Electric_0
+  - first:
+      74: 7400084
+    second: Wind_0
+  - first:
+      74: 7400086
+    second: Fire_0
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Model
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack_0
+      takeName: Attack_0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_0
+      takeName: Idle_0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Move_0
+      takeName: Move_0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Startle_0
+      takeName: Startle_0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stun_0
+      takeName: Stun_0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack_1
+      takeName: Attack_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack_2
+      takeName: Attack_2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack_3
+      takeName: Attack_3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack_4
+      takeName: Attack_4
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Startle_1
+      takeName: Startle_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Startle_2
+      takeName: Startle_2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stun_1
+      takeName: Stun_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stun_2
+      takeName: Stun_2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stun_3
+      takeName: Stun_3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stun_4
+      takeName: Stun_4
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Move_1
+      takeName: Move_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Move_2
+      takeName: Move_2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Move_3
+      takeName: Move_3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_1
+      takeName: Idle_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_2
+      takeName: Idle_2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_3
+      takeName: Idle_3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Move_4
+      takeName: Move_4
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Startle_3
+      takeName: Startle_3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stun_5
+      takeName: Stun_5
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack_5
+      takeName: Attack_5
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_4
+      takeName: Idle_4
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Move_5
+      takeName: Move_5
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack_6
+      takeName: Attack_6
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack_7
+      takeName: Attack_7
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Startle_4
+      takeName: Startle_4
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stun_6
+      takeName: Stun_6
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack_8
+      takeName: Attack_8
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stun_7
+      takeName: Stun_7
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stun_8
+      takeName: Stun_8
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stun_9
+      takeName: Stun_9
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stun_10
+      takeName: Stun_10
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Startle_5
+      takeName: Startle_5
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Startle_6
+      takeName: Startle_6
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boulder_0
+      takeName: Boulder_0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boulder
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Model
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Acid_0
+      takeName: Acid_0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Electric_0
+      takeName: Electric_0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Wind_0
+      takeName: Wind_0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fire_0
+      takeName: Fire_0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 84
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 45
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

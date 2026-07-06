@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Resources/UI/Glazier_UIToolkit/UnturnedStyle.uss?fileID=7433441132597879392&amp;guid=74fb47bc2a54a5d4da80f9ca73bf71cd&amp;type=3#UnturnedStyle" />
+    <ui:Button text="Button" display-tooltip-when-elided="true" class="test unturned-button" />
+    <ui:TextField picking-mode="Ignore" value="filler text" text="filler text" class="unturned-field" />
+    <ui:Label text="box" display-tooltip-when-elided="true" name="box" class="unturned-box" />
+    <ui:Label text="label with shadow" display-tooltip-when-elided="true" class="unturned-label" />
+</ui:UXML>

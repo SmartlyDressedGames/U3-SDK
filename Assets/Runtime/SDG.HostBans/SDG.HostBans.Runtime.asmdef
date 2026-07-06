@@ -1,0 +1,17 @@
+{
+    "name": "SDG.HostBans.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9e856377ac402c34186ef7855b4f049d",
+        "GUID:2a2ed13e77897fe4abe2cbe2a7c8f694"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

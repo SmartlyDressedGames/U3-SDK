@@ -1,0 +1,16 @@
+{
+    "name": "SDG.NetTransport",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2a2ed13e77897fe4abe2cbe2a7c8f694"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

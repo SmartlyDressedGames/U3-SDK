@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 41517d18ddd3d0240918f54ebb749566
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Left_Arm
+  - first:
+      1: 100004
+    second: Left_Foot
+  - first:
+      1: 100006
+    second: Left_Hand
+  - first:
+      1: 100008
+    second: Left_Hip
+  - first:
+      1: 100010
+    second: Left_Hook
+  - first:
+      1: 100012
+    second: Left_Leg
+  - first:
+      1: 100014
+    second: Left_Shoulder
+  - first:
+      1: 100016
+    second: Right_Arm
+  - first:
+      1: 100018
+    second: Right_Foot
+  - first:
+      1: 100020
+    second: Right_Hand
+  - first:
+      1: 100022
+    second: Right_Hip
+  - first:
+      1: 100024
+    second: Right_Hook
+  - first:
+      1: 100026
+    second: Right_Leg
+  - first:
+      1: 100028
+    second: Right_Shoulder
+  - first:
+      1: 100030
+    second: Skeleton
+  - first:
+      1: 100032
+    second: Skull
+  - first:
+      1: 100034
+    second: Spine
+  - first:
+      1: 100036
+    second: Human
+  - first:
+      1: 100038
+    second: Left_Foot_end
+  - first:
+      1: 100040
+    second: Left_Hook_end
+  - first:
+      1: 100042
+    second: Right_Foot_end
+  - first:
+      1: 100044
+    second: Right_Hook_end
+  - first:
+      1: 100046
+    second: Skull_end
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Left_Arm
+  - first:
+      4: 400004
+    second: Left_Foot
+  - first:
+      4: 400006
+    second: Left_Hand
+  - first:
+      4: 400008
+    second: Left_Hip
+  - first:
+      4: 400010
+    second: Left_Hook
+  - first:
+      4: 400012
+    second: Left_Leg
+  - first:
+      4: 400014
+    second: Left_Shoulder
+  - first:
+      4: 400016
+    second: Right_Arm
+  - first:
+      4: 400018
+    second: Right_Foot
+  - first:
+      4: 400020
+    second: Right_Hand
+  - first:
+      4: 400022
+    second: Right_Hip
+  - first:
+      4: 400024
+    second: Right_Hook
+  - first:
+      4: 400026
+    second: Right_Leg
+  - first:
+      4: 400028
+    second: Right_Shoulder
+  - first:
+      4: 400030
+    second: Skeleton
+  - first:
+      4: 400032
+    second: Skull
+  - first:
+      4: 400034
+    second: Spine
+  - first:
+      4: 400036
+    second: Human
+  - first:
+      4: 400038
+    second: Left_Foot_end
+  - first:
+      4: 400040
+    second: Left_Hook_end
+  - first:
+      4: 400042
+    second: Right_Foot_end
+  - first:
+      4: 400044
+    second: Right_Hook_end
+  - first:
+      4: 400046
+    second: Skull_end
+  - first:
+      43: 4300000
+    second: Human
+  - first:
+      74: 7400000
+    second: Idle_Climb
+  - first:
+      74: 7400002
+    second: Idle_0
+  - first:
+      74: 7400004
+    second: Idle_1
+  - first:
+      74: 7400006
+    second: Idle_1_001
+  - first:
+      74: 7400008
+    second: Idle_Stand
+  - first:
+      74: 7400010
+    second: Idle_Crouch
+  - first:
+      74: 7400012
+    second: Idle_Prone
+  - first:
+      74: 7400014
+    second: Idle_Swim
+  - first:
+      74: 7400016
+    second: Idle_Sit
+  - first:
+      74: 7400018
+    second: Idle_Drive
+  - first:
+      74: 7400020
+    second: Idle_Climb
+  - first:
+      74: 7400022
+    second: Idle_Zip
+  - first:
+      74: 7400024
+    second: Idle_Reclined
+  - first:
+      74: 7400026
+    second: Idle_Bicycle
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Human
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle_Stand
+      takeName: Idle_Stand
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Crouch
+      takeName: Idle_Crouch
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Prone
+      takeName: Idle_Prone
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Climb
+      takeName: Idle_Climb
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Swim
+      takeName: Idle_Swim
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Sit
+      takeName: Idle_Sit
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Drive
+      takeName: Idle_Drive
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Zip
+      takeName: Idle_Zip
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Reclined
+      takeName: Idle_Reclined
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Bicycle
+      takeName: Idle_Bicycle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Left_Hip
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg
+        weight: 1
+      - path: Skeleton/Left_Hip/Left_Leg/Left_Foot
+        weight: 1
+      - path: Skeleton/Right_Hip
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg
+        weight: 1
+      - path: Skeleton/Right_Hip/Right_Leg/Right_Foot
+        weight: 1
+      - path: Skeleton/Spine
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand
+        weight: 1
+      - path: Skeleton/Spine/Left_Shoulder/Left_Arm/Left_Hand/Left_Hook
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand
+        weight: 1
+      - path: Skeleton/Spine/Right_Shoulder/Right_Arm/Right_Hand/Right_Hook
+        weight: 1
+      - path: Skeleton/Spine/Skull
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 45
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

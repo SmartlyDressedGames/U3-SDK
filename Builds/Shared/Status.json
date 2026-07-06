@@ -1,0 +1,250 @@
+{
+	"Achievements":
+	{
+		"NPC_Achievement_IDs":
+		[
+			"Soulcrystal",
+			"Mk2",
+			"Boss_Magma",
+			"Zweihander",
+			"Kuwait_Squeek",
+			"Kuwait_FelineFriends",
+			"Kuwait_DinosaurJuice",
+			"Kuwait_HomeDecor",
+			"Kuwait_AlwaysWatching",
+			"Kuwait_FamiliarFaces",
+			"Kuwait_EscapingOutlands",
+			"Kuwait_DunemansPromise",
+			"Elver_FinalBoss",
+			"Festive2021_Power",
+			"Festive2021_Snowman",
+			"Festive2021_Delivery",
+			"Festive2021_Cook",
+			"Arid_Finale",
+			"Arid_RPG",
+			"Frost_Expedition",
+			"Buak_ADayInTheSun",
+			"Buak_Memory",
+			"Buak_TacoWaffle",
+			"Buak_Anomaly",
+			"PBS_BombsAway",
+			"PBS_ForcefulAcquisition",
+			"PBS_DeadSilent",
+			"PBS_PoorInvestment",
+			"Rio_Bookworm",
+			"Rio_BrokenChains",
+			"Rio_ChaosTheorem",
+			"Rio_PermanentTourist",
+			"Rio_SproutUp",
+			"LS_Covert",
+			"LS_Dare",
+			"LS_Concrete",
+			"LS_Widowmaker",
+			"Cali2_ZoneTrekker",
+			"Cali2_DiplomaticImmunity",
+			"Cali2_EmployeeOfTheCentury",
+			"Cali2_HeartOfGold",
+			"Cali2_AnOldWound",
+			"Cali2_VoidCave"
+		]
+	},
+	"Game":
+	{
+		"Major_Version": 26,
+		"Minor_Version": 3,
+		"Patch_Version": 4,
+		"GrantPackageIDs":
+		[
+			487
+		],
+		"GrantPackageURL": "https://api.smartlydressedgames.com/u4/shipping/package-grant?steamid={0}"
+	},
+	"Holidays":
+	{
+		"LunarNewYear_Days": 15
+	},
+	"Menu":
+	{
+		"PromoStart": "2026-04-30T16:00:00Z",
+		"PromoEnd": "2026-05-28T16:00:00Z",
+		"PromoLevel": "CaliforniaMenu",
+		"Custom_Menu_Links": [
+			{
+				"Label_Key": "Support_Label",
+				"Tooltip_Key": "Support_Tooltip",
+				"Icon": "Support",
+				"Web_Link": "https://support.smartlydressedgames.com/hc/en-us"
+			},
+			{
+				"Label_Key": "Blog_Button",
+				"Tooltip_Key": "Blog_Button_Tooltip",
+				"Icon": "Blog",
+				"Web_Link": "https://blog.smartlydressedgames.com/"
+			},
+			{
+				"Label_Key": "Bsky_Button",
+				"Tooltip_Key": "Bsky_Button_Tooltip",
+				"Icon": "Bsky",
+				"Web_Link": "https://bsky.app/profile/smartlydressedgames.com"
+			}
+		]
+	},
+	"News":
+	{
+		"Announcements_Count": 1
+	},
+	"Maps":
+	{
+		"Auto_Subscribe":
+		[
+			{
+				"Workshop_File_Id": 3707778928,
+				"Start": "2026-04-30T16:00:00Z",
+				"End": "2026-05-28T16:00:00Z"
+			},
+			{
+				"Workshop_File_Id": 3711646503,
+				"Start": "2026-04-30T16:00:00Z",
+				"End": "2026-05-28T16:00:00Z"
+			}
+		],
+		"Auto_Unsubscribe":
+		[
+			1905768396
+		],
+		"Curated_Map_Links":
+		[
+			{
+				"Name": "California 2",
+				"Workshop_File_Id": 3707778928,
+				"Required_Workshop_File_Ids":
+				[
+					3711646503
+				],
+				"Visible_In_Singleplayer_Recommendations_List": true
+			},
+			{
+				"Name": "Limestone",
+				"Workshop_File_Id": 3565225438,
+				"Visible_In_Singleplayer_Recommendations_List": true
+			},
+			{
+				"Name": "Rio de Janeiro",
+				"Workshop_File_Id": 3416057692,
+				"Visible_In_Singleplayer_Recommendations_List": true
+			},
+			{
+				"Name": "Escalation",
+				"Workshop_File_Id": 3251926587,
+				"Visible_In_Singleplayer_Recommendations_List": false
+			},
+			{
+				"Name": "Buak",
+				"Workshop_File_Id": 3000549606,
+				"Visible_In_Singleplayer_Recommendations_List": true
+			},
+			{
+				"Name": "A6 Polaris",
+				"Workshop_File_Id": 2898548949,
+				"Visible_In_Singleplayer_Recommendations_List": false
+			},
+			{
+				"Name": "Arid",
+				"Workshop_File_Id": 2683620106,
+				"Visible_In_Singleplayer_Recommendations_List": false
+			},
+			{
+				"Name": "Kuwait",
+				"Workshop_File_Id": 2483365750,
+				"Visible_In_Singleplayer_Recommendations_List": true
+			},
+			{
+				"Name": "Elver",
+				"Workshop_File_Id": 2136497468,
+				"Visible_In_Singleplayer_Recommendations_List": false
+			},
+			{
+				"Name": "Easter Island",
+				"Workshop_File_Id": 1983200271,
+				"Visible_In_Singleplayer_Recommendations_List": true
+			},
+			{
+				"Name": "France",
+				"Workshop_File_Id": 1975500516,
+				"Visible_In_Singleplayer_Recommendations_List": true
+			},
+			{
+				"Name": "Ireland",
+				"Workshop_File_Id": 1411633953,
+				"Visible_In_Singleplayer_Recommendations_List": true
+			},
+			{
+				"Name": "California (Original)",
+				"Workshop_File_Id": 1905768396,
+				"Visible_In_Singleplayer_Recommendations_List": false
+			},
+			{
+				"Name": "Rio de Janeiro (Original)",
+				"Workshop_File_Id": 1821848824,
+				"Visible_In_Singleplayer_Recommendations_List": false
+			},
+			{
+				"Name": "Dango",
+				"Workshop_File_Id": 1850228333,
+				"Visible_In_Singleplayer_Recommendations_List": false
+			},
+			{
+				"Name": "Canyon Arena",
+				"Workshop_File_Id": 1850209768,
+				"Visible_In_Singleplayer_Recommendations_List": false
+			},
+			{
+				"Name": "Bunker Arena",
+				"Workshop_File_Id": 1257784170,
+				"Visible_In_Singleplayer_Recommendations_List": false
+			},
+			{
+				"Name": "Athens Arena",
+				"Workshop_File_Id": 1454125991,
+				"Visible_In_Singleplayer_Recommendations_List": false
+			},
+			{
+				"Name": "Carpat",
+				"Workshop_File_Id": 1497352180,
+				"Required_Workshop_File_Ids":
+				[
+					1702240229,
+					1753131903
+				],
+				"Visible_In_Singleplayer_Recommendations_List": false
+			},
+			{
+				"Name": "Greece",
+				"Workshop_File_Id": 1702240229,
+				"Required_Workshop_File_Ids":
+				[
+					1753131903
+				],
+				"Visible_In_Singleplayer_Recommendations_List": true
+			},
+			{
+				"Name": "Hawaii",
+				"Workshop_File_Id": 1753134636,
+				"Required_Workshop_File_Ids":
+				[
+					1753131903
+				],
+				"Visible_In_Singleplayer_Recommendations_List": true
+			},
+			{
+				"Name": "Belgium",
+				"Workshop_File_Id": 1727125581,
+				"Required_Workshop_File_Ids":
+				[
+					1767554683
+				],
+				"Visible_In_Singleplayer_Recommendations_List": false
+			}
+		]
+	}
+}

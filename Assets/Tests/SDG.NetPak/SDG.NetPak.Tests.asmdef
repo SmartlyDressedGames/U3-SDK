@@ -1,0 +1,17 @@
+{
+    "name": "SDG.NetPak.Tests",
+    "references": [
+        "GUID:9e856377ac402c34186ef7855b4f049d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

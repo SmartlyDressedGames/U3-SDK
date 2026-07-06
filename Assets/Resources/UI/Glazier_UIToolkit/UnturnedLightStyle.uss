@@ -1,0 +1,97 @@
+.unturned-toggle > .unity-toggle__input {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box");
+}
+
+.unturned-toggle > .unity-toggle__input:hover {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box_Highlighted");
+}
+
+/* Below :hover to take priority. */
+.unturned-toggle > .unity-toggle__input:disabled {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box");
+}
+
+.unturned-box {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box");
+}
+
+.unturned-button {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box");
+}
+
+.unturned-button:hover {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box_Highlighted");
+}
+
+.unturned-button:active {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box_Pressed");
+}
+
+/* Below :hover to take priority. */
+.unturned-button:disabled {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box");
+}
+
+.unturned-field > .unity-base-field__input {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box");
+}
+
+.unturned-field > .unity-base-field__input:hover {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box_Highlighted");
+}
+
+.unturned-field > .unity-base-field__input:focus {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box_Highlighted");
+}
+
+/* Tracker is the small bar behind the slider handle. */
+.unturned-slider > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__tracker {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Slider_Background");
+}
+
+/* Dragger is the handle in the slider. */
+.unturned-slider > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__dragger {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box");
+}
+.unturned-slider:hover > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__dragger {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box_Highlighted");
+}
+.unturned-slider:focus > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__dragger {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box_Pressed");
+}
+
+/********************************************
+Scroll View
+********************************************/
+
+/* Horizontal scroll bar. */
+/* Tracker is the small bar behind the slider handle. */
+.unturned-scroll-view > .unity-scroller--horizontal > .unity-slider > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__tracker {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Slider_Background");
+}
+/* Dragger is the handle in the slider. */
+.unturned-scroll-view > .unity-scroller--horizontal > .unity-slider > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__dragger {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box");
+}
+.unturned-scroll-view > .unity-scroller--horizontal > .unity-slider:hover > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__dragger {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box_Highlighted");
+}
+.unturned-scroll-view > .unity-scroller--horizontal > .unity-slider:focus > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__dragger {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box_Pressed");
+}
+
+/* Vertical scroll bar. */
+/* Tracker is the small bar behind the slider handle. */
+.unturned-scroll-view > .unity-scroll-view__content-and-vertical-scroll-container > .unity-scroller--vertical > .unity-slider > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__tracker {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Slider_Background");
+}
+/* Dragger is the handle in the slider. */
+.unturned-scroll-view > .unity-scroll-view__content-and-vertical-scroll-container > .unity-scroller--vertical > .unity-slider > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__dragger {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box");
+}
+.unturned-scroll-view > .unity-scroll-view__content-and-vertical-scroll-container > .unity-scroller--vertical > .unity-slider:hover > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__dragger {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box_Highlighted");
+}
+.unturned-scroll-view > .unity-scroll-view__content-and-vertical-scroll-container > .unity-scroller--vertical > .unity-slider:focus > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__dragger {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box_Pressed");
+}

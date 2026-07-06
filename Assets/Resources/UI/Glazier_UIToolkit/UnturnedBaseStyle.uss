@@ -1,0 +1,333 @@
+:root {
+    font-size: 12px; /* Please refer to ESleekFontSize.Default. */
+    -unity-font-style: normal; /* Please refer to GlazierUtils_UIToolkit.GetFontStyle. */
+    -unity-text-align: middle-center; /* Please refer to GlazierUtils_UIToolkit.GetTextAlignment. */
+}
+
+.unturned-box {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box");
+    background-color: transparent;
+    border-radius: 0;
+    border-width: 0;
+    padding: 0;
+    overflow: visible;
+}
+/* Box contains a separate label (rather than being a label itself)
+   so that it can have hidden overflow and some padding. */
+.unturned-box-label {
+    position: absolute;
+    padding: 0;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    overflow: hidden;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    white-space: normal;
+    flex-grow: 1;
+}
+
+.unturned-label {
+    padding: 0;
+}
+
+.unturned-empty {
+}
+
+.unturned-constraint-frame-container {
+}
+.unturned-constraint-frame-content {
+    position: absolute;
+}
+
+.unturned-image {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.unturned-sprite {
+    /* Slicing is only used for inventory slots as of 2023-09-27. */
+    /* In Unity 2021 LTS a Sprite is not assignable to background image, only the Texture2D. */
+    -unity-slice-left: 20;
+    -unity-slice-right: 20;
+    -unity-slice-top: 20;
+    -unity-slice-bottom: 20;
+}
+
+.unturned-scrollview {
+}
+
+.unturned-slider {
+}
+
+.unturned-slider.unity-base-slider--horizontal {
+    height: 20px;
+    min-height: 0;
+}
+.unturned-slider.unity-base-slider--vertical {
+    width: 20px;
+    min-width: 0;
+}
+
+/* Tracker is the small bar behind the slider handle. */
+.unturned-slider > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__tracker {
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 0;
+}
+/* Horizontal-specific: */
+.unturned-slider.unity-base-slider--horizontal > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__tracker {
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-top: -4px;
+    height: 8px;
+}
+/* Vertical-specific: */
+.unturned-slider.unity-base-slider--vertical > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__tracker {
+    margin-left: -4px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    width: 8px;
+}
+
+/* Dragger is the handle in the slider. */
+.unturned-slider > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__dragger {
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 0;
+}
+/* Horizontal-specific: */
+.unturned-slider.unity-base-slider--horizontal > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__dragger {
+    height: 20px;
+    margin-top: -10px;
+    width: 25%;
+}
+/* Vertical-specific: */
+.unturned-slider.unity-base-slider--vertical > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__dragger {
+    width: 20px;
+    margin-left: -10px;
+    height: 25%
+}
+
+.unturned-toggle {
+    overflow: visible;
+}
+
+.unturned-toggle > .unity-toggle__input {
+    overflow: visible;
+    margin: 10px;
+}
+
+.unturned-toggle #unity-checkmark {
+    overflow: visible;
+    background-color: transparent;
+    border-radius: 0;
+    border-width: 0;
+    width: 40px;
+    height: 40px;
+    margin-left: -10px;
+}
+
+.unturned-toggle:checked #unity-checkmark {
+    overflow: visible;
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Toggle_Foreground");
+    background-color: transparent;
+    border-radius: 0;
+    border-width: 0;
+}
+
+.unturned-button {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box");
+    background-color: transparent;
+    padding: 0;
+    overflow: visible;
+    border-radius: 0;
+    border-width: 0;
+}
+
+.unturned-button:hover {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box_Highlighted");
+    background-color: transparent;
+}
+
+.unturned-button:active {
+    background-image: resource("UI/Glazier_uGUI/LightTheme/Box_Pressed");
+    background-color: transparent;
+}
+
+.unturned-button:disabled {
+    background-color: transparent;
+}
+
+.unturned-field {
+    padding: 0;
+    overflow: visible;
+    border-radius: 1px;
+}
+.unturned-field > .unity-base-field__input {
+    background-color: transparent;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    overflow: visible;
+    border-radius: 0;
+    border-width: 0;
+    -unity-text-align: middle-center; /* Please refer to GlazierUtils_UIToolkit.GetTextAlignment. */
+}
+.unturned-field__placeholder {
+    position: absolute;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+/* Fullscreen container for game window, cursors, tooltips, etc. */
+.unturned-glazier-layer {
+    position: absolute; 
+    padding: 0;
+    margin: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+/* Green text in upper-left. */
+.unturned-debug {
+    position: absolute; /* Absolute takes up the minimal amount of space. */
+    margin: 0;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+/* Software cursor. */
+.unturned-cursor {
+    background-image: resource("UI/Glazier_uGUI/Cursor");
+    width: 20px;
+    height: 20px;
+}
+
+/* Runtime tooltip label. */
+.unturned-tooltip {
+    background-image: resource("UI/Glazier_uGUI/TooltipShadow");
+    position: absolute; /* Absolute takes up the minimal amount of space. */
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+/********************************************
+Scroll View
+********************************************/
+
+.unturned-scroll-view > .unity-scroll-view__content-and-vertical-scroll-container > .unity-scroll-view__content-viewport > .unity-scroll-view__content-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 100%;
+    bottom: 100%;
+}
+
+/* Horizontal scroll bar. */
+.unturned-scroll-view > .unity-scroller--horizontal {
+    margin-left: 0;
+    margin-right: 0px;
+    height: 30px;
+}
+.unturned-scroll-view > .unity-scroller--horizontal > .unity-slider {
+    margin-top: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    min-height: 0;
+    height: 20px;
+}
+/* Tracker is the small bar behind the slider handle. */
+.unturned-scroll-view > .unity-scroller--horizontal > .unity-slider > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__tracker {
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 0;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-top: -4px;
+    height: 8px;
+    top: 50%;
+}
+/* Dragger is the handle in the slider. */
+.unturned-scroll-view > .unity-scroller--horizontal > .unity-slider > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__dragger {
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 0;
+    height: 20px;
+    margin-top: -10px;
+    top: 50%;
+    min-width: 5%;
+}
+
+/* Vertical scroll bar. */
+.unturned-scroll-view > .unity-scroll-view__content-and-vertical-scroll-container > .unity-scroller--vertical {
+    margin-top: 0;
+    margin-bottom: 0px;
+    width: 30px;
+}
+.unturned-scroll-view > .unity-scroll-view__content-and-vertical-scroll-container > .unity-scroller--vertical > .unity-slider {
+    margin-left: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+    min-width: 0;
+    width: 20px;
+}
+/* Tracker is the small bar behind the slider handle. */
+.unturned-scroll-view > .unity-scroll-view__content-and-vertical-scroll-container > .unity-scroller--vertical > .unity-slider > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__tracker {
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 0;
+    margin-left: -4px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    width: 8px;
+    left: 50%;
+}
+/* Dragger is the handle in the slider. */
+.unturned-scroll-view > .unity-scroll-view__content-and-vertical-scroll-container > .unity-scroller--vertical > .unity-slider > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__dragger {
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 0;
+    width: 20px;
+    margin-left: -10px;
+    left: 50%;
+    min-height: 5%;
+}
+
+/* Left arrow button. */
+.unturned-scroll-view > .unity-scroller--horizontal > .unity-scroller__low-button {
+    visibility: hidden;
+}
+/* Right arrow button. */
+.unturned-scroll-view > .unity-scroller--horizontal > .unity-scroller__high-button {
+    visibility: hidden;
+}
+/* Up arrow button. */
+.unturned-scroll-view > .unity-scroll-view__content-and-vertical-scroll-container > .unity-scroller--vertical > .unity-scroller__low-button {
+    visibility: hidden;
+}
+/* Down arrow button. */
+.unturned-scroll-view > .unity-scroll-view__content-and-vertical-scroll-container > .unity-scroller--vertical > .unity-scroller__high-button {
+    visibility: hidden;
+}

@@ -1,13 +1,19 @@
-Hello, world!
+# U3 SDK
 
-This GitHub repository is geared towards technical users (like modders, plugin developers, and server hosts) of the PC (Steam) version of _Unturned_. You can use it to submit issue reports and get previews of upcoming changes. There are a lot of friendly members of the modding community who help out around here!
+Source code for [Unturned](https://smartlydressedgames.com/unturned/), a free open-world zombie survival sandbox game.
 
-If you are looking for support please check out the [dedicated support website](https://support.smartlydressedgames.com/hc/en-us).
+## Getting Started
 
-For modding and server documentation please refer to the [dedicated documentation website](https://docs.smartlydressedgames.com/en/stable/).
+1. Download/clone this repository
+2. Install [Unity Hub](https://unity.com/download) (required to install engine)
+3. Install the [Unity 2022.3.62f3](https://unity.com/releases/editor/whats-new/2022.3.62f3) editor
+4. *Optional*: if making code changes, select **Game development with Unity** + **.NET desktop development** in the Visual Studio installer
+5. Ensure Steam is running and you have [Unturned](https://store.steampowered.com/app/304930/Unturned/) installed (large binary files and mods are loaded from here)
+6. Open the project with the Unity editor
+7. Open the `Assets/GameStartup.unity` scene
+8. Click play!
 
-General discussion should be posted to one of the community forums:
+## Resources
 
-- [Unturned Steam Discussions](https://steamcommunity.com/app/304930/discussions/)
-- [Unturned Discord Server](https://discord.gg/unturned)
-- [r/Unturned subreddit](www.reddit.com/r/unturned/)
+- [Frequently Asked Questions](https://docs.smartlydressedgames.com/en/stable/u3-sdk/faq.html)
+- [Unturned's Modding Documentation](https://docs.smartlydressedgames.com/en/stable/)

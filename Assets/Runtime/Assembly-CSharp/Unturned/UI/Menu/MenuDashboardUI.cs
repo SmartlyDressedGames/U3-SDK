@@ -1231,13 +1231,20 @@ namespace SDG.Unturned
 				return;
 			}
 
+#if !WITH_NOREDIST // SDK
+			if (!liveConfig.mainMenuAlert.isRelevantForSDK)
+			{
+				return;
+			}
+#endif // !WITH_NOREDIST
+
 			bool bypassTimeWindow = false;
-#if UNITY_EDITOR || DEVELOPMENT_BUILD
+#if (UNITY_EDITOR || DEVELOPMENT_BUILD) && WITH_NOREDIST
 			if (LiveConfig.useEditorLiveConfig)
 			{
 				bypassTimeWindow = true;
 			}
-#endif // !UNITY_EDITOR || DEVELOPMENT_BUILD
+#endif // (UNITY_EDITOR || DEVELOPMENT_BUILD) && WITH_NOREDIST
 
 			if (liveConfig.mainMenuAlert.useTimeWindow && !bypassTimeWindow)
 			{

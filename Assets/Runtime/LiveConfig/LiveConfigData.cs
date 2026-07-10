@@ -40,6 +40,14 @@ namespace SDG.Unturned
 		public string iconName;
 		public string iconURL;
 		public bool shouldTintIcon;
+
+		/// <summary>
+		/// If false, ignore this banner in U3 SDK.
+		/// For example, community organized events are unlikely to be relevant to custom versions,
+		/// whereas a super-special announcement may be relevant to all players.
+		/// </summary>
+		public bool isRelevantForSDK;
+
 		public bool useTimeWindow;
 		public System.DateTime startTime;
 		public System.DateTime endTime;
@@ -54,6 +62,7 @@ namespace SDG.Unturned
 			iconName = data.GetString("IconName");
 			iconURL = data.GetString("IconURL");
 			shouldTintIcon = data.ParseBool("TintIcon");
+			isRelevantForSDK = data.ParseBool("RelevantForSDK");
 			useTimeWindow = data.ParseBool("UseTimeWindow");
 			startTime = data.ParseDateTimeUtc("StartTime");
 			endTime = data.ParseDateTimeUtc("EndTime");

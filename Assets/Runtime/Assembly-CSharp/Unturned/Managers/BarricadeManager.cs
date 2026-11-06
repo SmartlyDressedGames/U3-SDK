@@ -3102,6 +3102,11 @@ namespace SDG.Unturned
 								region.barricades.Add(data);
 #pragma warning restore
 								++spawnCount;
+
+								if (drop.interactable is IBarricadePlacedHandler spawnHandler)
+								{
+									spawnHandler.OnBarricadePlaced(region, drop);
+								}
 							}
 							else
 							{

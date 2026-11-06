@@ -126,11 +126,7 @@ namespace SDG.Unturned
 							Bundle.FixupGameObjectAudio(gameObject);
 #endif // !DEDICATED_SERVER
 
-							if (!StaticUnityEventPrevention.Validate(gameObject))
-							{
-								UnturnedLog.warn("Canceling load asset '{0}' from master bundle '{1}' because it failed UnityEvent checks", formattedPath, name);
-								asset = null;
-							}
+							StaticUnityEventPrevention.Validate(gameObject);
 						}
 					}
 					else if (logWarnings)

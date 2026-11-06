@@ -88,6 +88,11 @@ namespace SDG.Unturned
 			Characters.ungroup();
 		}
 
+		private static void OnPrivateProfileBannerClicked(ISleekElement button)
+		{
+			ConvenientSavedata.get().setFlag("Private_Profile_Group_Change_Seen");
+		}
+
 		private static void onClickedBackButton(ISleekElement button)
 		{
 			MenuSurvivorsUI.open();
@@ -113,6 +118,42 @@ namespace SDG.Unturned
 			container.SizeScale_Y = 1;
 			MenuUI.container.AddChild(container);
 			active = false;
+
+			if (!ConvenientSavedata.get().hasFlag("Private_Profile_Group_Change_Seen"))
+			{
+				SleekWebLinkButton privateProfileButton = new SleekWebLinkButton();
+				privateProfileButton.Url = "https://support.smartlydressedgames.com/hc/en-us/articles/54342213977364-Why-isn-t-the-Steam-Groups-feature-working";
+				privateProfileButton.PositionOffset_X = 100;
+				privateProfileButton.SizeOffset_X = -200;
+				privateProfileButton.SizeOffset_Y = 60;
+				privateProfileButton.SizeScale_X = 1;
+				privateProfileButton.internalButton.OnClicked += OnPrivateProfileBannerClicked;
+				container.AddChild(privateProfileButton);
+
+				ISleekLabel privateProfileHeaderLabel = Glazier.Get().CreateLabel();
+				privateProfileHeaderLabel.PositionOffset_X = 10;
+				privateProfileHeaderLabel.SizeScale_X = 1;
+				privateProfileHeaderLabel.SizeOffset_X = -20;
+				privateProfileHeaderLabel.SizeOffset_Y = 30;
+				privateProfileHeaderLabel.TextAlignment = TextAnchor.MiddleCenter;
+				privateProfileHeaderLabel.FontSize = ESleekFontSize.Medium;
+				privateProfileHeaderLabel.TextContrastContext = ETextContrastContext.ColorfulBackdrop;
+				privateProfileHeaderLabel.Text = localization.format("PrivateProfileChange_Header");
+				privateProfileHeaderLabel.TextColor = ESleekTint.BAD;
+				privateProfileButton.AddChild(privateProfileHeaderLabel);
+
+				ISleekLabel privateProfileBodyLabel = Glazier.Get().CreateLabel();
+				privateProfileBodyLabel.PositionOffset_X = 10;
+				privateProfileBodyLabel.PositionOffset_Y = 30;
+				privateProfileBodyLabel.SizeOffset_X = -20;
+				privateProfileBodyLabel.SizeOffset_Y = -30;
+				privateProfileBodyLabel.SizeScale_X = 1;
+				privateProfileBodyLabel.SizeScale_Y = 1;
+				privateProfileBodyLabel.TextAlignment = TextAnchor.MiddleCenter;
+				privateProfileBodyLabel.TextContrastContext = ETextContrastContext.ColorfulBackdrop;
+				privateProfileBodyLabel.Text = localization.format("PrivateProfileChange_Body");
+				privateProfileButton.AddChild(privateProfileBodyLabel);
+			}
 
 			groups = Provider.provider.communityService.getGroups();
 

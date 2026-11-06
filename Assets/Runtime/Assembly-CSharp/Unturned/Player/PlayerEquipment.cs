@@ -608,7 +608,14 @@ namespace SDG.Unturned
 
 		public bool checkSelection(byte page, byte x, byte y)
 		{
-			return page == equippedPage && x == equipped_x && y == equipped_y;
+			if (page < PlayerInventory.SLOTS)
+			{
+				return page == equippedPage;
+			}
+			else
+			{
+				return page == equippedPage && x == equipped_x && y == equipped_y;
+			}
 		}
 
 		public void applySkinVisual()

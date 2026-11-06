@@ -84,6 +84,6 @@ namespace SDG.Unturned
 			}
 		}
 
-		private ISleekButton internalButton;
+		internal ISleekButton internalButton;
 	}
 }
